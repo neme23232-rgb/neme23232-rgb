@@ -8,49 +8,23 @@
 
 <br />
 
-```toml
-[profile]
-handle = "neme23232-rgb"
-bio = "I don't do any programming."
-approach = "local-first, zero telemetry, minimal dependencies"
+Разрабатываю автономные CLI/Desktop-инструменты и локальные модификации для рабочих сред — без лишних зависимостей и телеметрии.
 
-[stack]
-systems = ["Rust 2024", "Cargo", "TUI / CLI"]
-desktop = ["Tauri v2", "WebView2", "JavaScript", "HTML / CSS"]
-tooling = ["автономные бинарники", "резервные копии", "локальные патчи"]
-```
+### Текущие проекты
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/neme23232-rgb/Project-OxiCode">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="assets/card-oxicode-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="assets/card-oxicode-light.svg" />
-            <img alt="Project-OxiCode" src="assets/card-oxicode-dark.svg" width="100%" />
-          </picture>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/neme23232-rgb/AGMod">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="assets/card-agmod-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="assets/card-agmod-light.svg" />
-            <img alt="AGMod" src="assets/card-agmod-dark.svg" width="100%" />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- **[Project OxiCode](https://github.com/neme23232-rgb/Project-OxiCode)** — AI-агент для разработки на Rust (`edition = "2024"`) с единым ядром `oxicode-core` на 10 API-провайдеров, терминальным клиентом `oxicode-cli` и настольной версией `oxicode-ds` на Tauri v2 + WebView2.
+- **[AGMod](https://github.com/neme23232-rgb/AGMod)** — расширение для Google Antigravity на JavaScript: 14 тем оформления, студия цветов, загрузка системных шрифтов, локализация на 7 языков и менеджер профилей.
 
-<br />
+### Стек
+
+`Rust 2024` · `Cargo` · `Tauri v2` · `WebView2` · `JavaScript` · `Node.js` · `HTML / CSS`
+
+---
 
 <div align="center">
   <sub>
     <a href="https://github.com/neme23232-rgb">github.com/neme23232-rgb</a>
     &nbsp;·&nbsp;
-    <code>neme23232-rgb@users.noreply.github.com</code>
+    <a href="mailto:neme23232@gmail.com">neme23232@gmail.com</a>
   </sub>
 </div>
