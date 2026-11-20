@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" fill="none">
+  <rect x="1" y="1" width="838" height="198" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <path d="M1 13C1 6.37258 6.37258 1 13 1H827C833.627 1 839 6.37258 839 13V34H1V13Z" fill="#f6f8fa"/>
+  <line x1="1" y1="34" x2="839" y2="34" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="22" cy="18" r="4.5" fill="#8b5f68"/>
+  <circle cx="38" cy="18" r="4.5" fill="#7b9b83"/>
+  <circle cx="54" cy="18" r="4.5" fill="#557a95"/>
+  <text x="816" y="22" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">neme23232-rgb ~ profile</text>
+
+  <text x="32" y="78" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700">neme</text>
+  <text x="128" y="76" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">@neme23232-rgb</text>
+
+  <text x="32" y="104" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">"I don't do any programming."</text>
+  <text x="32" y="128" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5">Инструменты, TUI/Desktop-клиенты и модификации сред.</text>
+
+  <rect x="32" y="148" width="84" height="24" rx="5" fill="#8b5f68" fill-opacity="0.12" stroke="#8b5f68" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="74" y="164" text-anchor="middle" fill="#6e454e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">Rust 2024</text>
+
+  <rect x="126" y="148" width="92" height="24" rx="5" fill="#7b9b83" fill-opacity="0.12" stroke="#7b9b83" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="172" y="164" text-anchor="middle" fill="#47664f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">JavaScript</text>
+
+  <rect x="228" y="148" width="80" height="24" rx="5" fill="#557a95" fill-opacity="0.12" stroke="#557a95" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="268" y="164" text-anchor="middle" fill="#3a5970" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">Tauri v2</text>
+
+  <rect x="318" y="148" width="84" height="24" rx="5" fill="#557a95" fill-opacity="0.12" stroke="#557a95" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="360" y="164" text-anchor="middle" fill="#3a5970" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">CLI / TUI</text>
+
+  <line x1="520" y1="52" x2="520" y2="176" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="546" y="72" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">mode</text>
+  <text x="642" y="72" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">local-first</text>
+
+  <text x="546" y="100" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">telemetry</text>
+  <text x="642" y="100" fill="#47664f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">disabled</text>
+
+  <text x="546" y="128" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">focus</text>
+  <text x="642" y="128" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">cli, gui, patches</text>
+
+  <text x="546" y="156" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">repos</text>
+  <text x="642" y="156" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2 public</text>
+</svg>
