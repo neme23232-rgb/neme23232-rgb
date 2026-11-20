@@ -1,16 +1,15 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-    <img alt="neme — профиль neme23232-rgb" src="assets/header-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img alt="neme — профиль neme23232-rgb" src="assets/hero-dark.svg" width="100%" />
   </picture>
-  <p>
-    <img src="https://img.shields.io/badge/Rust-2024-8b5f68?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 2024" />
-    <img src="https://img.shields.io/badge/JavaScript-Node.js-7b9b83?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Desktop-Tauri%20v2-557a95?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri v2" />
-    <img src="https://img.shields.io/badge/CLI%20%2F%20TUI-Windows-557a95?style=for-the-badge" alt="CLI / TUI" />
-    <img src="https://img.shields.io/badge/Telemetry-None-7b9b83?style=for-the-badge" alt="No Telemetry" />
-  </p>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+    <img alt="Стек: Rust 2024, JavaScript, Tauri v2, CLI / TUI, No Telemetry" src="assets/stack-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ## Направления работы
